@@ -15,6 +15,8 @@
 - [modrinth](https://modrinth.com/mod/wild-wind)
 - [curseforge](https://www.curseforge.com/minecraft/mc-mods/wild-wind)
 
+26.1.2 is developing.
+
 ### <img alt="image" style="width: 50%;" src="./img/c7e777d9e4b2cb05ed1ff29e826dba11_720.png"/>
 
 # Food
@@ -24,3 +26,8 @@
 - [curseforge](https://www.curseforge.com/minecraft/mc-mods/squidcraft)
 - [discord](https://discord.gg/AAXr2cjFJp)
 ### <img alt="image" style="width: 50%;" src="https://media.forgecdn.net/attachments/826/126/snipaste_2024-03-16_21-19-41.png"/>
+
+# Modpacks
+
+## Gregtech Universe
+- [Github](https://github.com/Polari-Stars-MC/GregTech-Universe)
