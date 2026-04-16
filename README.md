@@ -17,3 +17,4 @@
 ## Squid Craft
 - [modrinth](https://modrinth.com/mod/squidcraft)
 - [curseforge](https://www.curseforge.com/minecraft/mc-mods/squidcraft)
+### ![image](https://media.forgecdn.net/attachments/826/126/snipaste_2024-03-16_21-19-41.png)
