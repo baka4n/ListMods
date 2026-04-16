@@ -6,11 +6,15 @@
 - [curseforge](https://www.curseforge.com/minecraft/mc-mods/the-space)
 - [modrinth](https://modrinth.com/mod/space)
 
+### <img alt="image" style="width: 50%;" src="https://media.forgecdn.net/attachments/1550/597/6ce59faed36cf602595863d8828e220dfa297a25-png.png"/>
+
 # Decoration
 
 ## Wild Wind
 - [modrinth](https://modrinth.com/mod/wild-wind)
 - [curseforge](https://www.curseforge.com/minecraft/mc-mods/wild-wind)
+
+### <img alt="image" style="width: 50%;" src="./img/c7e777d9e4b2cb05ed1ff29e826dba11_720.png"/>
 
 # Food
 
